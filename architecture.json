@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-european-magical-realism-memory-identity",
+  "title": "The Catalogue of Ghosts",
+  "tagline": "A man fleeing his own identity discovers his grandfather's ledger of stolen memories, a collection that threatens to unmake him and rewrite the past.",
+  "target_words": 79519,
+  "actual_words": 79519,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Theft and Inheritance of Memory",
+    "The Fragility of Personal Identity",
+    "The Haunting Weight of the Past",
+    "Archival Power and Erasure"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ghost of Apples",
+      "words": 7229
+    },
+    {
+      "ch": 2,
+      "title": "L’Oubliette and the Locked Door",
+      "words": 7229
+    },
+    {
+      "ch": 3,
+      "title": "A Postcard in My Own Hand",
+      "words": 7229
+    },
+    {
+      "ch": 4,
+      "title": "The Knock Without a Source",
+      "words": 7229
+    },
+    {
+      "ch": 5,
+      "title": "A Firmament of Stolen Time",
+      "words": 7229
+    },
+    {
+      "ch": 6,
+      "title": "The Acoustics of a Specimen",
+      "words": 7229
+    },
+    {
+      "ch": 7,
+      "title": "A Tuner’s Kit, a Prisoner’s Clothes",
+      "words": 7229
+    },
+    {
+      "ch": 8,
+      "title": "The Cyst in the Citadel",
+      "words": 7229
+    },
+    {
+      "ch": 9,
+      "title": "A Bird’s Egg of a Name",
+      "words": 7229
+    },
+    {
+      "ch": 10,
+      "title": "Return from the Underworld",
+      "words": 7229
+    },
+    {
+      "ch": 11,
+      "title": "A Key in a Familiar Lock",
+      "words": 7229
+    }
+  ]
+}
